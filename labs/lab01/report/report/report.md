@@ -89,7 +89,7 @@ Github -- это платформа для размещения кода для 
 
 3. я составил лабораторный отчет и снял видео, как я это делаю, и опубликовал на YouTube в 2 частях.
 [part1](https://youtu.be/gfyv3sH8NGs)
-<br>
+
 [part2](https://youtu.be/U3f0F7_YXPM)
 <img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/video.jpg"/>
 
