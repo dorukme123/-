@@ -81,21 +81,21 @@ Github -- это платформа для размещения кода для 
 # Выполнение лабораторной работы
 
 1. я открыл новый репозиторий под названием math-modeling. клонировал репозиторий примера в мою папку git и добавил его в мой git, затем зафиксировал репозиторий. в последний раз я поместил его в свой github в главной ветке.
-<img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.jpg"/>
+![1](image/1.jpg)
 
 2. я выполнил основные шаги в моем git bash. создал index.html и зафиксировал это с помощью кода, который приведен в лабораторном отчете.
-<img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.2.jpg"/>
-<img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.2code.jpg"/>
+![1.2](image/1.2.jpg)
+![1.2](image/1.2code.jpg)
 
 3. я составил лабораторный отчет и снял видео, как я это делаю, и опубликовал на YouTube в 2 частях.
 [part1](https://youtu.be/gfyv3sH8NGs)
 
 [part2](https://youtu.be/U3f0F7_YXPM)
 
-<img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/video.jpg"/>
+![video](image/video.jpg)
 
 4. поместил все изменения в репозиторий с окончательным отчетом.
-<img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/push.jpg"/>
+![push](image/push.jpg)
 
 
 # Выводы
