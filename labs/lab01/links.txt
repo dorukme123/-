@@ -1,0 +1,6 @@
+repo:
+https://github.com/dorukme123/math-modelling/tree/main/labs/lab01
+youtube:
+report|
+https://youtu.be/gfyv3sH8NGs part1
+https://youtu.be/U3f0F7_YXPM part2
