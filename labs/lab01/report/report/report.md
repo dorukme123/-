@@ -88,7 +88,7 @@ Github -- это платформа для размещения кода для 
 
 2. я выполнил основные шаги в моем git bash. создал index.html и зафиксировал это с помощью кода, который приведен в лабораторном отчете.
 <img src="[1.2](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.2.jpg)" alt="1.2" style="height: 100px; width:100px;"/>
-<img src="[1.2code](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.2code.jpg)" alt="1.2code" style="height: 100px; width:100px;"/>
+<img src="[1.2code](image/1.2code.jpg)" alt="1.2code" style="height: 100px; width:100px;"/>
 
 3. я составил лабораторный отчет и снял видео, как я это делаю, и опубликовал на YouTube в 2 частях.
 [part1](https://youtu.be/gfyv3sH8NGs)
