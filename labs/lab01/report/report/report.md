@@ -91,6 +91,7 @@ Github -- это платформа для размещения кода для 
 [part1](https://youtu.be/gfyv3sH8NGs)
 
 [part2](https://youtu.be/U3f0F7_YXPM)
+
 <img src="https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/video.jpg"/>
 
 4. поместил все изменения в репозиторий с окончательным отчетом.
