@@ -24,9 +24,6 @@ documentclass: scrreprt
 ## I18n polyglossia
 polyglossia-lang:
   name: russian
-  options:
-	- spelling=modern
-	- babelshorthands=true
 polyglossia-otherlangs:
   name: english
 ## I18n babel
@@ -76,7 +73,7 @@ header-includes:
 
 
 # Теоретическое введение
-![git](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/git.png){#fig:001 width=70%}
+![git](image/git.png)
 Git -- это инструмент DevOps, используемый для управления исходным кодом. Это бесплатная система контроля версий с открытым исходным кодом, используемая для эффективной обработки небольших и очень крупных проектов. Git используется для отслеживания изменений в исходном коде, позволяя нескольким разработчикам совместно работать над нелинейной разработкой.
 Github -- это платформа для размещения кода для контроля версий и совместной работы. Это позволяет вам и другим пользователям совместно работать над проектами из любой точки мира. В этом руководстве вы познакомитесь с основами GitHub, такими как репозитории, ветви, коммиты и запросы на извлечение.
 
@@ -84,19 +81,22 @@ Github -- это платформа для размещения кода для 
 # Выполнение лабораторной работы
 
 1. я открыл новый репозиторий под названием math-modeling. клонировал репозиторий примера в мою папку git и добавил его в мой git, затем зафиксировал репозиторий. в последний раз я поместил его в свой github в главной ветке.
-![RESPOSITORY](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.jpg){#fig:001 width=70%}
+![1](image/1.jpg)
 
 2. я выполнил основные шаги в моем git bash. создал index.html и зафиксировал это с помощью кода, который приведен в лабораторном отчете.
-![lab report1](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.2.jpg){#fig:001 width=70%}
-![lab report1](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/1.2code.jpg){#fig:001 width=70%}
+![1.2](image/1.2.jpg)
+![1.2](image/1.2code.jpg)
 
 3. я составил лабораторный отчет и снял видео, как я это делаю, и опубликовал на YouTube в 2 частях.
 [part1](https://youtu.be/gfyv3sH8NGs)
+
 [part2](https://youtu.be/U3f0F7_YXPM)
-![video](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/video.jpg){#fig:001 width=70%}
+
+![video](image/video.jpg)
 
 4. поместил все изменения в репозиторий с окончательным отчетом.
-![final](https://github.com/dorukme123/math-modelling/tree/main/labs/lab01/report/report/image/push.jpg){#fig:001 width=70%}
+![push](image/push.jpg)
+
 
 # Выводы
 
@@ -104,5 +104,6 @@ Github -- это платформа для размещения кода для 
 
 # Список литературы{.unnumbered}
 
-::: [github](https://github.com) {#refs:git}
-::: [git](https://git-scm.com) {#refs:github}
+[github](https://github.com) {#refs:git}
+<br>
+[git](https://git-scm.com) {#refs:github}
