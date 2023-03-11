@@ -1,0 +1,6 @@
+report:
+https://youtu.be/EVXIxkC_HYs
+present:
+https://youtu.be/s_dlSaWFJVA
+github:
+https://github.com/dorukme123/math-modelling/tree/main/labs/lab05
