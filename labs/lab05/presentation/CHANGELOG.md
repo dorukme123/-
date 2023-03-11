@@ -1,3 +1,15 @@
+commit 11aeb5077b94ad8fcaf5c96d996941748836f94b
+Author: dorukme123 <dorukmerickymkc@gmail.com>
+Date:   Sat Mar 11 18:29:07 2023 +0300
+
+    lab05
+
+commit 767c1cf4b156857d0931906e7662c4ddd75d31f6
+Author: dorukme123 <dorukmerickymkc@gmail.com>
+Date:   Sat Mar 4 20:24:26 2023 +0300
+
+    lab04 final
+
 commit b42762fb26587b85021fa1a3c98551b4f14b9d85
 Author: dorukme123 <dorukmerickymkc@gmail.com>
 Date:   Sat Mar 4 19:53:28 2023 +0300
