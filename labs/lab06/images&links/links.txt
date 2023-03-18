@@ -1,0 +1,6 @@
+report:
+
+present:
+
+github:
+https://github.com/dorukme123/math-modelling/tree/main/labs/lab06
