@@ -1,6 +1,6 @@
 report:
-
+https://youtu.be/aluy-6RfQd0
 present:
-
+https://youtu.be/W5aHI_oiXwc
 github:
 https://github.com/dorukme123/math-modelling/tree/main/labs/lab06
